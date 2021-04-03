@@ -1,0 +1,11 @@
+{
+    "name": "Node Build Workflow",
+    "description": "Node build CI workflow template",
+    "iconName": "node-icon",
+    "categories": [
+        "Node", "JavaScript", "TypeScript"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
